@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
 <h4 align="center">The first simple website was created in 2007. As needed for personal projects, I studied the required technologies and tools. </br>
-  I want to be a QA, I like it and I am ready to test interesting projects for experience. </br>
+  I’m currently learning QA - Quality Assurance, Quality Control, Quality Engineer, Testing </br>
   I don't have any commercial experience yet, but I'm ready for a changes.
 </h4>
 
-- 🌱 I’m currently learning **QA - Quality Assurance, Quality Control, Quality Engineer, Testing**
+- 🌱 I want to be a QA, I like it and I am ready to test interesting projects for experience.
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/alleksandr" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alleksandr" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
