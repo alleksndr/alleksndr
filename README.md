@@ -19,9 +19,9 @@
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=Bootstrap&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Python-3776AB.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Unity-FFFFFF.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=black"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=black"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Unity-FFFFFF.svg?logo=Unity&logoColor=black"></a>
 </p>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
