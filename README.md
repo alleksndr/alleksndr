@@ -4,7 +4,7 @@
   I don't have any commercial experience yet, but I'm ready for a changes.
 </h4>
 
-- 🌱 I want to be a QA, I like it and I am ready to test interesting projects for experience.
+🌱 I want to be a QA, I like it and I am ready to test interesting projects for experience.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
