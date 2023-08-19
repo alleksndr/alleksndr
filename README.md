@@ -22,8 +22,8 @@
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Unity-FFFFFF.svg?logo=Unity&logoColor=black"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Blender-F5792A.svg?logo=Blender&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Illustrator-FF9A00.svg?logo=Illustrator&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Blender-FF6C37.svg?logo=Blender&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Illustrator-F5792A.svg?logo=Illustrator&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Photoshop-31A8FF.svg?logo=Photoshop&logoColor=white"></a>
 </p>
 <p align="left"> 
