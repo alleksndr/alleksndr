@@ -30,7 +30,7 @@
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Blender-FF6C37.svg?logo=Blender&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Illustrator-F5792A.svg?logo=adobeillustrator&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Photoshop-31A8FF.svg?logo=adobephotoshop&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/AdobeXD-FF61F6.svg?logo=adobexd&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/AdobeXD-f754e2.svg?logo=adobexd&logoColor=white"></a>
 </p>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
