@@ -21,7 +21,7 @@
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Postman-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Python-3776AB.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Ubity-FFFFFF.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Unity-FFFFFF.svg?logo=javascript&logoColor=black"></a>
 </p>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
