@@ -71,20 +71,11 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
 </p>
-
-### Views
+ 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alleksndr&label=Profile%20views&color=0e75b6&style=flat" alt="alleksndr" />
 </p>
 
-### Trophy
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alleksndr" alt="alleksndr" />
-  </a> 
-</p>
-
-### Stats
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alleksndr&show_icons=true&locale=en" alt="alleksndr" />
 </p>
