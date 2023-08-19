@@ -83,6 +83,8 @@
   <img src="https://komarev.com/ghpvc/?username=alleksndr&label=Profile%20views&color=0e75b6&style=flat" alt="alleksndr" />
 </p>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alleksndr)
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alleksndr&show_icons=true&locale=en" alt="alleksndr" />
 </p>
