@@ -20,8 +20,9 @@
   <a href="#"><img alt="JS/JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&logoColor=white"></a>
-  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/DevTools-FFFFFF.svg?logo=DevTools&logoColor=black"></a>
+  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/DevTools-FFFFFF.svg?logo=Devtools&logoColor=black"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/PyTest-3776AB.svg?logo=Pytest&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white"></a>
   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=Selenium&logoColor=white"></a>
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=Jira-Software&logoColor=white"></a>
