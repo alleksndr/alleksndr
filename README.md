@@ -5,15 +5,19 @@
 </h4>
 
 🌱 I want to be a QA, I like it and I am ready to test interesting projects for experience.
+<h4 align="left">Project:</h4>
+<p align="left">
+  <a href="https://telenumbers.ru" target="blank"></a>
+</p>
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">Contact:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/alleksandr" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alleksandr" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Languages and Tools:</h4>
-<p alogn="lefr">
+<h4 align="left">Tools:</h4>
+<p align="left">
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=Bootstrap&logoColor=white"></a>
