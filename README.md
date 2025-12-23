@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
-<h4 align="center">The first simple website was created in 2007. As needed for personal projects, I studied the required technologies and tools. </br>
-  I’m currently learning QA - Quality Assurance, Quality Control, Quality Engineer, Testing </br>
-  I don't have any commercial experience yet, but I'm ready for a changes.
+<h4 align="center">
+  QA Automation Engineere since 2024</br>
+  API/UI, Web/Mobile
 </h4>
-
-🌱 I want to be a QA, I like it and I am ready to test interesting projects for experience.
-<h4 align="left">Project:</h4>
-<p align="left">
-  <a href="https://telenumbers.ru" target="blank"></a>
-</p>
 
 <h4 align="left">Contact:</h4>
 <p align="left">
@@ -31,14 +25,4 @@
   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=Selenium&logoColor=white"></a>
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=Jira-Software&logoColor=white"></a>
   <a href="#"><img alt="other Tools" src="https://img.shields.io/badge/and_more-another_tools"></a>
-</p>
- 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alleksndr&label=Profile%20views&color=0e75b6&style=flat" alt="alleksndr" />
-</p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alleksndr)
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alleksndr&show_icons=true&locale=en" alt="alleksndr" />
 </p>
