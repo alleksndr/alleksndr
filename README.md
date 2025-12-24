@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
 <h4 align="center">
-  QA Automation Engineere since 2024</br>
+  QA Automation Engineere</br>
   API/UI, Web/Mobile
 </h4>
 
